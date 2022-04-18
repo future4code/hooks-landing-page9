@@ -12,8 +12,11 @@
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
+    <!-- cdn sources css 'aos' file -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/stsyle.css">
 
 </head>
 
@@ -56,7 +59,7 @@
     </div>
 
     <div class="image">
-        <img src="images/tenis-header.png" alt="Tênis preto">
+        <img src="images/tenis-header.png" alt="Tênis vermelho">
     </div>
 
 </section>
@@ -120,10 +123,10 @@
 <main class="row">
 
     <div class="image">
-        <img src="images/nosso-produto.jpg" alt="Imagem de pés de uma pessoa calçando um tênis preto">
+        <img src="images/nosso-produto.jpg" alt="Imagem de pés de uma pessoa calçando um tênis preto" data-aos="fade-left" data-aos-delay="300">
     </div>
 
-    <div class="content">
+    <div class="content" data-aos="fade-right" data-aos-delay="300">
         <h3>Melhor e mais Fashion para facilitar a sua vida!!!.</h3>
         <p>Nossos modelos constam contam com tecnologia prória para suporte aos 
             pés sem perder o look social. Esqueça os sapatos desconfortáveis e rasteirinhas
@@ -261,6 +264,16 @@
 </div>
 <!-- footer section ends -->
 
+<!-- cdm js file & initialize 'aos'  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+<script>
+
+    AOS.init({
+        duration: 800,
+        offset:150,
+    });
+
+</script>
 
 <!-- jquery cdn link  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
