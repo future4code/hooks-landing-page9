@@ -1,6 +1,6 @@
 <h1 align="center">
     <br>
-    <p align="center">🚀 Projeto Landing Page - 4Comfort
+    <p align="center" style="color: #D30404; font-weight: bold;">🚀 Projeto Landing Page - 4Comfort
 <p>
 </h1>
 
@@ -18,7 +18,10 @@
 
 <br>
 
-# 🧠 Contexto
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🧠 Contexto</p>
+</h1>
 
 O objetivo foi criar uma landing Page de uma empresa de tênis voltado para o conforto de quem trabalha em escritório.
 
@@ -30,17 +33,57 @@ O objetivo foi criar uma landing Page de uma empresa de tênis voltado para o co
 
 <br>
 
-# 🔗 Link do projeto no Surge
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🎨 Layout</p>
+</h1>
 
-# OBSERVAÇÃO: FALTA COLOCAR O LINK \*\*\*
+## Mobile
 
-## 🔗 Link do Figma
+<p align="center">
+     <img src="./images/mobile01.png"  width="200px">
+     <img src="./images/mobile02.png" width="200px">
+     <img src="./images/mobile03.png" width="200px">
+     <img src="./images/mobile04.png" width="200px">
+     <img src="./images/mobile05.png" width="200px">
+</p>
+</p>
+
+---
+
+## Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+     <img src="./images/desk01.png" width="400px">
+     <img src="./images/desk02.png" width="400px">
+</p>
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+     <img src="./images/desk03.png" width="400px">
+     <img src="./images/desk04.png" width="400px">
+</p>
+
+<br>
+
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🔗 Link do projeto no Surge</p>
+</h1>
+
+https://flippant-surprise.surge.sh/
+
+<h2>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🔗 Link do Figma</p>
+</h2>
 
 https://www.figma.com/file/xwh7b5dxXnHADEXqiAm211/Untitled?node-id=0%3A1
 
 <br>
 
-# 🛠️ Tecnologias Utilizadas
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">🛠️ Tecnologias Utilizadas</p>
+</h1>
 
  <div style="display: inline_block"><br>
  
@@ -54,10 +97,13 @@ https://www.figma.com/file/xwh7b5dxXnHADEXqiAm211/Untitled?node-id=0%3A1
 
 <br>
 
-# 📁 Arquitetura
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">📁 Arquitetura</p>
+</h1>
 
 ```
- 📁 hooks-landing-page
+ 📁 4Comfort
    |
    |- 📁 css
    |    |- 📑 style.css
@@ -75,7 +121,10 @@ https://www.figma.com/file/xwh7b5dxXnHADEXqiAm211/Untitled?node-id=0%3A1
 
 <br>
 
-# ⚙️ Requisitos
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">⚙️ Requisitos</p>
+</h1>
 
 A página deve :
 
@@ -98,7 +147,10 @@ A página deve :
 
 <br>
 
-# 👨‍💻 Contribuidores
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">👨‍💻 Contribuidores</p>
+</h1>
 
 _Qualquer dúvida ou sugestão, chama no contatinho!_
 
@@ -106,18 +158,19 @@ _Qualquer dúvida ou sugestão, chama no contatinho!_
   <tr>
     <td align="center"><a href="https://github.com/elisabetealves"><img style="border-radius: 50%;" src="https://unavatar.now.sh/github/elisabetealves" width="100px;" alt=""/><br /><sub><b>Elisabete Alves</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/mwlite/in/elisabete-alves-675637135">LinkedIn</a> </td>    
     <td align="center"><a href="https://github.com/CarlosToledoMartins"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62177926?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Augusto</b></sub></a><br /><a target="_blank" href="https://www.linkedin.com/in/carlos-augusto-toledo-martins-5000b5a6/">LinkedIn</a> </td>    
-    <td align="center"><a href=""><img style="border-radius: 50%;" src="https://unavatar.now.sh/github/FelipePavan13" width="100px;" alt=""/><br /><sub><b>Robson Nathan</b></sub></a><br /><a target="_blank" href="">LinkedIn</a> </td>
-      
   </tr>
   
 </table>
 
 <br>
 
-### Feito com 💜 e muita dedicação
+### Feito com ❤️ e muita dedicação
 
 <br>
-    
-# 📝 Licença
+
+<h1>
+    <br>
+    <p style="color: #D30404; font-weight: bold;">📝 Licença</p>
+</h1>
 
 Este projeto esta sob a licença [MIT](./LICENSE).
